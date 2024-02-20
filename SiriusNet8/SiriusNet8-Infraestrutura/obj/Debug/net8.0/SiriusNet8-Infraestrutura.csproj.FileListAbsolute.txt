@@ -1,0 +1,12 @@
+C:\Users\polly\source\repos\SiriusNet8\SiriusNet8\SiriusNet8-Infraestrutura\bin\Debug\net8.0\SiriusNet8-Infraestrutura.deps.json
+C:\Users\polly\source\repos\SiriusNet8\SiriusNet8\SiriusNet8-Infraestrutura\bin\Debug\net8.0\SiriusNet8-Infraestrutura.dll
+C:\Users\polly\source\repos\SiriusNet8\SiriusNet8\SiriusNet8-Infraestrutura\bin\Debug\net8.0\SiriusNet8-Infraestrutura.pdb
+C:\Users\polly\source\repos\SiriusNet8\SiriusNet8\SiriusNet8-Infraestrutura\obj\Debug\net8.0\SiriusNet8-Infraestrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polly\source\repos\SiriusNet8\SiriusNet8\SiriusNet8-Infraestrutura\obj\Debug\net8.0\SiriusNet8-Infraestrutura.AssemblyInfoInputs.cache
+C:\Users\polly\source\repos\SiriusNet8\SiriusNet8\SiriusNet8-Infraestrutura\obj\Debug\net8.0\SiriusNet8-Infraestrutura.AssemblyInfo.cs
+C:\Users\polly\source\repos\SiriusNet8\SiriusNet8\SiriusNet8-Infraestrutura\obj\Debug\net8.0\SiriusNet8-Infraestrutura.csproj.CoreCompileInputs.cache
+C:\Users\polly\source\repos\SiriusNet8\SiriusNet8\SiriusNet8-Infraestrutura\obj\Debug\net8.0\SiriusNet8-Infraestrutura.sourcelink.json
+C:\Users\polly\source\repos\SiriusNet8\SiriusNet8\SiriusNet8-Infraestrutura\obj\Debug\net8.0\SiriusNet8-Infraestrutura.dll
+C:\Users\polly\source\repos\SiriusNet8\SiriusNet8\SiriusNet8-Infraestrutura\obj\Debug\net8.0\refint\SiriusNet8-Infraestrutura.dll
+C:\Users\polly\source\repos\SiriusNet8\SiriusNet8\SiriusNet8-Infraestrutura\obj\Debug\net8.0\SiriusNet8-Infraestrutura.pdb
+C:\Users\polly\source\repos\SiriusNet8\SiriusNet8\SiriusNet8-Infraestrutura\obj\Debug\net8.0\ref\SiriusNet8-Infraestrutura.dll

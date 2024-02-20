@@ -1,0 +1,12 @@
+C:\Users\polly\source\repos\SiriusNet8\SiriusNet8\Dominio\bin\Debug\net8.0\SiriusNet8-Dominio.deps.json
+C:\Users\polly\source\repos\SiriusNet8\SiriusNet8\Dominio\bin\Debug\net8.0\SiriusNet8-Dominio.dll
+C:\Users\polly\source\repos\SiriusNet8\SiriusNet8\Dominio\bin\Debug\net8.0\SiriusNet8-Dominio.pdb
+C:\Users\polly\source\repos\SiriusNet8\SiriusNet8\Dominio\obj\Debug\net8.0\SiriusNet8-Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polly\source\repos\SiriusNet8\SiriusNet8\Dominio\obj\Debug\net8.0\SiriusNet8-Dominio.AssemblyInfoInputs.cache
+C:\Users\polly\source\repos\SiriusNet8\SiriusNet8\Dominio\obj\Debug\net8.0\SiriusNet8-Dominio.AssemblyInfo.cs
+C:\Users\polly\source\repos\SiriusNet8\SiriusNet8\Dominio\obj\Debug\net8.0\SiriusNet8-Dominio.csproj.CoreCompileInputs.cache
+C:\Users\polly\source\repos\SiriusNet8\SiriusNet8\Dominio\obj\Debug\net8.0\SiriusNet8-Dominio.sourcelink.json
+C:\Users\polly\source\repos\SiriusNet8\SiriusNet8\Dominio\obj\Debug\net8.0\SiriusNet8-Dominio.dll
+C:\Users\polly\source\repos\SiriusNet8\SiriusNet8\Dominio\obj\Debug\net8.0\refint\SiriusNet8-Dominio.dll
+C:\Users\polly\source\repos\SiriusNet8\SiriusNet8\Dominio\obj\Debug\net8.0\SiriusNet8-Dominio.pdb
+C:\Users\polly\source\repos\SiriusNet8\SiriusNet8\Dominio\obj\Debug\net8.0\ref\SiriusNet8-Dominio.dll
